@@ -1,0 +1,6 @@
+Projeto do curso
+*Primeira tela de login
+*login: cetic
+*senha: deixar em branco
+*Segunda tela de acesso ao aplicativo, com menu drawer, uma lista,
+ e transições de telas...

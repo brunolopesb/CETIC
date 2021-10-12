@@ -1,4 +1,4 @@
-# bubu
+# Projeto do curso
 
 A new Flutter project.
 
