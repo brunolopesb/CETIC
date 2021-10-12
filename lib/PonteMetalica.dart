@@ -44,12 +44,8 @@ class _PonteMetalica extends State<PonteMetalica> {
           children: <Widget>[
             Positioned(
               top: 0,
-              child: FadeInImage.assetNetwork(
-                fadeInDuration: 
-                const Duration(seconds: 1),
-                placeholder: 'img/loader.gif',
-                image: 'http://www.saofidelisrj.com.br/wp-content/uploads/2018/10/ponte_metalica_sao_fidelis_rj.jpg',
-              ),
+   child: Image.asset(
+                  "img/ponte_metalica_sao_fidelis_rj.jpg"),
             ),
 
 

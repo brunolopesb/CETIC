@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   login = text;
                 },
                 autofocus: true,
-                keyboardType: TextInputType.number,
+                //keyboardType: TextInputType.number,
                 style: new TextStyle(
                   color: Colors.white,
                   fontSize: 20,

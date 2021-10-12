@@ -68,8 +68,8 @@ class InicioPage extends State<Inicio> {
             SizedBox(
               width: 270,
               height: 200,
-              child: Image.network(
-                  "http://www.saofidelisrj.com.br/wp-content/themes/saofidelisRJ/logo.png"),
+              child: Image.asset(
+                  "img/logo.png"),
             ),
             SizedBox(
               child: Text(

@@ -46,12 +46,8 @@ class _FazendaDaPedra extends State<FazendaDaPedra> {
           children: <Widget>[
             Positioned(
               top: 0,
-              child: FadeInImage.assetNetwork(
-                fadeInDuration: 
-                const Duration(seconds: 1),
-                placeholder: 'img/loader.gif',
-                image: 'http://www.saofidelisrj.com.br/wp-content/uploads/2018/10/fazenda_da_pedra_saofidelis.jpg',
-              ),
+        child: Image.asset(
+                  "img/fazenda_da_pedra_saofidelis.jpg"),
             ),
 
 
